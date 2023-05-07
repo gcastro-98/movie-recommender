@@ -1,0 +1,13 @@
+streamlit
+streamlit-card
+streamlit-toggle-switch
+pandas
+numpy
+torch
+pybase64
+torchvision
+scikit-learn
+git+https://github.com/maciejkula/spotlight.git
+bcrypt
+pymongo[srv]
+plotly
